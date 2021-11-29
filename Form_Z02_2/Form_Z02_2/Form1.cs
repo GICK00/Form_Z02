@@ -87,7 +87,7 @@ namespace Form_Z02_2
                 }
                 else
                 {
-                    textBoxResult.Text = "Некорректный ввод данных!";
+                    textBoxResult.Text = "Неверный формат даты!";
                 }
             }
             catch(Exception)
