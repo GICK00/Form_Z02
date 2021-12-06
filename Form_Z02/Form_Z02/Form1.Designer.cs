@@ -42,6 +42,7 @@ namespace Form_Z02
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::Form_Z02.Properties.Resources.Graf;
             this.pictureBox1.ImageLocation = "C:\\Users\\Dmitryi Gick\\source\\repos\\Form_Z02\\Graf.jpg";
             this.pictureBox1.InitialImage = null;
             this.pictureBox1.Location = new System.Drawing.Point(286, 58);
